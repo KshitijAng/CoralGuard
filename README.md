@@ -1,3 +1,5 @@
+![Project Diagram](logo.png "Diagram of the Project")
+
 # **CoralGuard**
 
 CoralGuard is an innovative app dedicated to safeguarding marine ecosystems by assessing coral health using cutting-edge AI technology. It empowers users to contribute actively to global marine 
